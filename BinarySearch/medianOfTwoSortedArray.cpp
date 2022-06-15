@@ -47,6 +47,7 @@ double median(vector<int> a, vector<int> b)
 int main()
 {
     int t;
+    cin >>t;
     while(t--)
     {
         int n,m;
